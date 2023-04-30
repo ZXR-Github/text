@@ -1,0 +1,3 @@
+﻿  4.30.cpp
+D:\桌面\text\4.30\4.30\4.30.cpp(41): warning C4715: “putout”: 不是所有的控件路径都返回值
+  4.30.vcxproj -> D:\桌面\text\4.30\x64\Debug\4.30.exe
