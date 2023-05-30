@@ -1,0 +1,5 @@
+﻿  5.30.cpp
+D:\桌面\text\5.30\5.30\5.30.cpp(23,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\桌面\text\5.30\5.30\5.30.cpp(37,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\桌面\text\5.30\5.30\5.30.cpp(37,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  5.30.vcxproj -> D:\桌面\text\5.30\x64\Debug\5.30.exe
